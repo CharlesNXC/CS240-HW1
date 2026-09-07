@@ -20,11 +20,13 @@ PDF including the following three items:
 
 ## Documents
 
-Part 1 --> part1.py
-Part 2 --> part2.py
-Part 3 --> part3.py , output.txt , smiley.png
-Part 4 --> part4.py , awesome_picture.txt , smiley2.png
-Part 5 --> part5.py
+| Part | Files | Description |
+|------|-------|-------------|
+| **Part 1** | `part1.py` | Python program for Part 1 |
+| **Part 2** | `part2.py` | Python program for Part 2 |
+| **Part 3** | `part3.py`<br>`output.txt`<br>`smiley.png` | Converts the image into RGB pixel data and stores the result in `output.txt` |
+| **Part 4** | `part4.py`<br>`awesome_picture.txt`<br>`smiley2.png` | Reads the text representation of an image and generates a PNG image |
+| **Part 5** | `part5.py` | Python program for Part 5 |
 
 ## Difficulties
 
