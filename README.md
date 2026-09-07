@@ -36,6 +36,7 @@ The main difficulties were the set-up of VSCode, to be able to execute different
 
 AI was used to solve some coding issues and errors. 
 AI was also used to set-up VS Code properly in order to be able to execute codes. (Pillow library)
+And to create the table on the 'Documents' section on GitHub, so it is well-organized.
 
 ## Requirements and Launch
 
