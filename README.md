@@ -45,7 +45,7 @@ This project requires:
 - Visual Studio Code (or any other IDE)
 
 ### To install Pillow, open a terminal and run:
-py -m pip install Pillow
+`py -m pip install Pillow`
 
 To launch, click on execute.
 
