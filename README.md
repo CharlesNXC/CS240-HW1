@@ -31,6 +31,7 @@ PDF including the following three items:
 ## Difficulties
 
 The main difficulties were the set-up of VSCode, to be able to execute different codes without issues. Some parts were also hard to understand in some codes. 
+I also had troubles doing Part 5 and understanding exactly how to do it.
 
 ## Use of AI
 
